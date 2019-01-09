@@ -2,9 +2,6 @@
 A small personal project to learn how to make a Discord bot using Discord JS
 
 # some example commands:
-
-
-
 !iam (rolename): allows a user to assign themselves a role if it exists
 !iamnot (rolename): allows a user to remove a role from themselves if it exists
 !spamping (@someone): messages the @user with 10 @ pings 
@@ -14,7 +11,6 @@ A small personal project to learn how to make a Discord bot using Discord JS
 
 
 # administrator commands:
-
 !ban (@user): bans a user that has been @'d in the message 
 !kick (@user): kicks a user that has been @'d in the message 
 !delete (int): Deletes messages between 2 to 100
