@@ -28,3 +28,8 @@ A small personal project to learn how to make a Discord bot using Discord JS and
 5. Navigate to where the file folder is, and shift + right click "open command window here"
 6. Enter node bot.js 
 7. Enjoy
+
+# References 
+
+Learned how to do the backbone of the bot from:
+<script src="https://gist.github.com/eslachance/3349734a98d30011bb202f47342601d3.js"></script>
