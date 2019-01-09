@@ -26,8 +26,8 @@ A small personal project to learn how to make a Discord bot using Discord JS and
 3. Add the bot to your server
 4. (optional) add a picture when the bot is being added to the server
 5. Navigate to where the file folder is, and shift + right click "open command window here"
-6. Enter node bot.js 
-7. Enjoy
+6. Enter "npm discord.js" and "npm weather.js" to install dependencies
+7. To run bot enter "node bot.js"
 
 # References 
 
