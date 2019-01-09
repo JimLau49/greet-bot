@@ -21,5 +21,10 @@ A small personal project to learn how to make a Discord bot using Discord JS and
 * !say (string): allows the administrator to speak as the 
 
 # How to use
-1. install node JS
-2. fun
+1. Install node JS
+2. Add your discord API token to auth.json
+3. Add the bot to your server
+4. (optional) add a picture when the bot is being added to the server
+5. Navigate to where the file folder is, and shift + right click "open command window here"
+6. Enter node bot.js 
+7. Enjoy
