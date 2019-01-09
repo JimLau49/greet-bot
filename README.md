@@ -32,4 +32,4 @@ A small personal project to learn how to make a Discord bot using Discord JS and
 # References 
 
 Learned how to do the backbone of the bot from:
-<script src="https://gist.github.com/eslachance/3349734a98d30011bb202f47342601d3.js"></script>
+https://gist.github.com/eslachance/3349734a98d30011bb202f47342601d3.js
