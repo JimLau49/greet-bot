@@ -21,4 +21,5 @@ A small personal project to learn how to make a Discord bot using Discord JS and
 * !say (string): allows the administrator to speak as the 
 
 # How to use
-1. install
+1. install node JS
+2. fun
