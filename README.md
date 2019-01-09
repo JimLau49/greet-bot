@@ -8,10 +8,10 @@ A small personal project to learn how to make a Discord bot using Discord JS
 * !convertmiles (number): converts km to m and displays answer in the chat 
 * !count: gets current amount of users
 * !uptime: how long the bot has currently been running
-
+* !ping: sends a small packet to the server as well as discord api to see its response time 
 
 # administrator commands:
 * !ban (@user): bans a user that has been @'d in the message 
 * !kick (@user): kicks a user that has been @'d in the message 
 * !delete (int): Deletes messages between 2 to 100
-* !say (string): allows 
+* !say (string): allows the administrator to speak as the 
